@@ -1,10 +1,10 @@
 ---
-title: "Data Wrangling Project"
+title: "Data Science Program Projects"
 date: 2018-01-28
 tags: [data wrangling, data science, messy data]
 header:
   image: "/images/perceptron/percept.jpg"
-excerpt: "Data Wrangling, Data Science, Messy Data"
+excerpt: "Data Wrangling, R, python, SQL"
 mathjax: "true"
 ---
 
