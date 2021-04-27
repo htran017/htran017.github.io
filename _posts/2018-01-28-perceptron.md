@@ -1,6 +1,6 @@
 ---
 title: "Data Science Program Projects"
-date: 2018-01-28
+date: 2020-2021
 tags: [data wrangling, data science, messy data]
 header:
   image: "/images/perceptron/percept.jpg"
