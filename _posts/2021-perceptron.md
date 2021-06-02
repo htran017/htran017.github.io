@@ -4,7 +4,7 @@ date: 2020-2021
 tags: [data wrangling, data science, messy data]
 header:
   image: "/images/perceptron/percept.jpg"
-excerpt: "Data Wrangling, R, python, SQL"
+excerpt: "Data Wrangling, python"
 mathjax: "true"
 ---
 
